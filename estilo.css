@@ -1,0 +1,163 @@
+/* ========================== layout =============================*/
+
+
+
+/* -- barra de navegação -- */
+
+.img-logo{
+	max-height: 70px;
+	max-width: 90px;
+}
+
+.img-logo-menu{
+	max-height: 70px;
+	max-width: 200px;
+}
+
+
+/* -- imagem de capa -- */
+
+.img-login{
+	max-height: 500px;
+	max-width: 500px;
+	border: 0px solid green;
+}
+
+/* -- imagem do menu -- */
+.img-menu{
+	max-height: 300px;
+	max-width: 300px;
+	border: 0px solid green;
+}
+
+/* -- cor da logo da Casa Militar -- */
+.cm-color{
+	/*background-color: rgba(0, 54, 104, 255); */
+	background-color: rgba(255, 255, 128, .5);
+}
+
+/*.capa{
+	width: 100%;
+	height: 80vh;
+	margin-top: 10vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.texto-capa{
+	text-align: left;
+	color: white;
+	vertical-align: middle;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #DCDCDC;
+}
+/* -- rodapé -- */
+/*.rodape{
+	text-align: center;
+	font-size: 12px;
+	color: black;
+	height: 10vh;
+	background-color: none;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000;
+}
+
+/* -- area central do login -- */
+/*.grid{
+	background-color: whitesmoke;
+	width: 100%;
+	height: 80vh;
+	margin-top: 10vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	overflow-y: auto;
+	border: 0px solid black;
+}
+
+.grid-central{
+	text-align: left;
+	width: 30vw;
+	vertical-align: middle;
+	border: 0px solid red;
+	margin: auto;
+	overflow-y: auto;
+	
+}
+/* ========================== tipografia =============================*/
+
+/*.fonte-padrao{
+	font: "Times New Roman", Times, serif;
+}
+
+
+/* ========================== medias =============================*/
+/*@media screen and (max-height: 300px){
+	.grid{
+		margin-top: 50px;
+		height: 100vh;
+	}
+	
+	.grid-central{
+		width: 90vw;
+		margin-top: 200px;
+
+	}
+	.img-logo{
+		height: 0px;
+		background: transparent;
+	}
+}
+
+
+
+@media screen and (max-width:  767px) {
+	.capa{
+		margin-top: 50px;
+	}
+	.texto-capa{
+	text-align: center;
+	}
+	.rodape{
+	font-size: 9px;
+	}
+	.grid{
+		margin-top: 50px;
+	}
+	.grid-central{
+	width: 60vw;
+	margin-top: 50px;
+	}
+	h1{
+		font-size: 25px;
+	}
+	h2{
+		font-size: 17px;
+	}
+}
+
+@media screen and (min-width:  768px) {
+	.grid-central{
+	width: 45vw;
+	}
+	h1{
+		font-size: 32px;
+	}
+	h2{
+		font-size: 20px;
+	}
+}
+
+@media screen and (min-width:  992px) {
+	.grid-central{
+	width: 40vw;
+	}
+	h1.grid-central{
+		font-size: 35px;
+	}
+	h2.grid-central{
+		font-size: 22px;
+	}
+}*/
+
