@@ -28,7 +28,7 @@
 				
 			</div>
 			<div class="login-menu">
-				<h3 class="text-white">Sistema de Escalas de Oficiais</h3>
+				<h3 class="text-white">Sistema de Escalas de Oficiais de Saturno</h3>
 			</div>
 			<div class="login-menu">
 				
